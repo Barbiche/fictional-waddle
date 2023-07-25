@@ -1,13 +1,8 @@
----
-date: 2020-04-21 00:00:00
-layout: post
-title: A lost fire
-subtitle: First compo game, a contemplative / survival experience for Ludum Dare 46.
-description: >-
-  First compo game, a contemplative / survival experience for Ludum Dare 46.
-image: /assets/img/a_lost_fire_logo.png
-category: games
----
++++
+title= "A lost fire"
+subtitle= "First compo game, a contemplative / survival experience for Ludum Dare 46."
+description= "First compo game, a contemplative / survival experience for Ludum Dare 46."
++++
 
 _This is the story of a lonely capsule. He/She is on a desert island, lost in the middle of nowhere. Maybe you can help him/her survive. At least one day, against event the strongest forces in the sky._
 

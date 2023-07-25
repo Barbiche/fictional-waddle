@@ -1,13 +1,8 @@
----
-date: 2020-10-06 00:00:00
-layout: post
-title: Giant Sushi Party
-subtitle: Reflexion game for Ludum Dare 47.
-description: >-
- A reflexion game for Ludum Dare 47.
-image: /assets/img/giant_sushi_party_logo.png
-category: games
----
++++
+title= "Giant Sushi Party"
+subtitle= "Reflexion game for Ludum Dare 47."
+description= "A reflexion game for Ludum Dare 47."
++++
 
 _What is better than regular sushis? GIANT sushis!_
 

@@ -1,13 +1,8 @@
----
-date: 2019-10-08 00:00:00
-layout: post
-title: Notorious Bum
-subtitle: Humouristic infiltration game for Ludum Dare 45.
-description: >-
-  Humouristic infiltration game for Ludum Dare 45.
-image: /assets/img/notorious_bum_logo.png
-category: games
----
++++
+title= "Notorious Bum"
+subtitle= "Humouristic infiltration game for Ludum Dare 45."
+description= "Humouristic infiltration game for Ludum Dare 45."
++++
 
 _After a crazy socialite party night, George wakes up in the street… entirely naked! With no memories of how he found himself into this situation, there is only one thing he can do: reach a taxi as fast as possible so that he can go back home discreetly._
 

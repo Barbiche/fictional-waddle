@@ -1,13 +1,8 @@
----
-date: 2021-04-09 00:00:00
-layout: post
-title: Checkpoints - An evening in Nicosia
-subtitle: A game to discover the geopolitical situation of Nicosia, Cyprus. Developed during Scientific Game Jam 2.
-image: /assets/img/checkpoints_logo.png
-description: >-
-  A game to discover the geopolitical situation of Nicosia, Cyprus.
-category: games
----
++++
+title= "Checkpoints - An evening in Nicosia"
+subtitle= "A game to discover the geopolitical situation of Nicosia, Cyprus. Developed during Scientific Game Jam 2."
+description= "A game to discover the geopolitical situation of Nicosia, Cyprus."
++++
 
 **Scientific Game Jam special prize: Borderless Game award**
 

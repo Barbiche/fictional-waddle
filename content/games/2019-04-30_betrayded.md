@@ -1,13 +1,8 @@
----
-date: 2019-04-30 00:00:00
-layout: post
-title: BETRAYDED
-subtitle: Original fighting game for Ludum Dare 44.
-description: >-
-  Original fighting game for Ludum Dare 44.
-image: /assets/img/betrayded_logo.png
-category: games
----
++++
+title= "BETRAYDED"
+subtitle= "Original fighting game for Ludum Dare 44."
+description= "Original fighting game for Ludum Dare 44."
++++
 
 _During the cold war era, two enemy factions trade their prisoners: spies who were captured... Hands and legs tied down, prisoners must find their way through the exchange area, having their movement ability limited. They must read their ally faction, going as fast as they can... Indeed, the factions might not be as honest as you think..._
 
