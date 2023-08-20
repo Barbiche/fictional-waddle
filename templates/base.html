@@ -8,23 +8,18 @@
     <link rel="stylesheet" href="{{ get_url(path="base.css", cachebust=true)  }}" />
 
 </head>
-
-<div class="w3-row-padding">
-    <div class="w3-half">    
+<body>
+    <div class="w3-content">
         <a href="/"><img class="w3-image w3-hover-opacity profile-picture" src="{{ get_url(path="logo.png") }}"/></a>
-    </div>
-    <div class="w3-half">  
         <h1>Thomas Guégan</h1>
         <h3>alias Barbiche</h3>
         <p>Développeur généraliste, et passionné de jeux vidéo, de moteur de jeu et de rendu graphique.</p>
         <p>... mais aussi de low-techs, de boulanger / pâtisserie, de musique électronique et d'alternatives soutenables!</p>
     </div>
-</div>
 
-<body>
-    <section class="w3-container">
-        {% block content %} {% endblock %}
-    </section>
+    <div class="w3-content">
+        {% block content %} 
+        {% endblock %}
+    </div>
 </body>
-
 </html>

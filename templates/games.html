@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h1 class="w3-content" style="text-align: center;">
+    {{ section.title }}
+</h1>
+
+<section class="w3-content w3-padding-32">
+    <div class="w3-row-padding">
+        <div class="w3-col m4">
+            {% for page in section.pages %}
+            <div class="col center">
+                <h2><a href="{{ page.permalink }}" style="color: inherit;">{{ page.title | safe }}</a></h2>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+
+{% endblock content %}
